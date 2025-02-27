@@ -1,0 +1,1360 @@
+{
+    "document_type": "Medical",
+    "redacted_text": "NOTICE\nThe Attached Material May Be Protected By Copyright Law ([REDACTED] U.S. Code)*\n*See Title [REDACTED]7 \u00a7 [REDACTED] of the Code of Federal Regulations:\nhttps://www.law.cornell.edu/cfr/text/[REDACTED]7/[REDACTED]\nThe copyright law of [REDACTED] (title [REDACTED]7, [REDACTED] Code) governs the\nmaking of photocopies or other reproductions of copyrighted materi[REDACTED]\nUnder certain conditions specified in the law, libraries and archives are authorized\nto furnish a photocopy or other reproduction. [REDACTED] of these specific conditions is\nthat the photocopy or reproduction is not to be \u201cused for any purpose other than\nprivate study, scholarship, or research.\u201d If a user makes a request for, or later\nuses, a photocopy or reproduction for purposes in excess of \u201cfair use,\u201d that user\nmay be liable for copyright infringement.\nThis institution reserves the right to refuse to accept a copying order if, in its\njudgment, fulfillment of the order would involve violation of copyright law.\nProvided by: [REDACTED] at [REDACTED]\nThe [REDACTED] at [REDACTED]\n70[REDACTED] Planetarium Place, [REDACTED], [REDACTED] 760[REDACTED]9-0[REDACTED]7\n[REDACTED]-[REDACTED]7[REDACTED]-[REDACTED][REDACTED][REDACTED] | [REDACTED] on the [REDACTED]\n[REDACTED] progress can stall when end users resist adoption. [REDACTED]ers must think beyond a\nproject\u2019s business benefits and ensure that end users\u2019 workflow concerns are addressed.\nBY [REDACTED], [REDACTED], AND SURESH BALU\nI\nt\u2019s [REDACTED]0 a.m. on a [REDACTED], and [REDACTED], [REDACTED] of the developers of a new artificial intelligence tool, is\nexcited about the technology launching [REDACTED]. Leaders of [REDACTED] intensive\ncare unit had asked [REDACTED] and his colleagues to develop an [REDACTED] tool to help prevent overcrowding\nin their unit. Research had shown that patients coming to the hospital with a particular type of\nheart attack did not require hospitalization in the [REDACTED], and its leaders hoped that an [REDACTED] tool\nwould help emergency room clinicians identify these patients and refer them to noncritical care.\nThis would both improve quality of care for patients and reduce unnecessary costs.\n[REDACTED] and his team of cardiologists, data scientists, computer scientists, and project man-\nagers had developed an [REDACTED] tool that made it easy for clinicians to identify these patients. It\nalso inserted language into the patients\u2019 electronic medical records to explain why they did\nnot need to be transferred to the [REDACTED]. Finally, after [REDACTED] of work, the tool was ready for action.\nFast-forward [REDACTED]. The launch of the tool had failed. [REDACTED] [REDACTED] doctor\u2019s comment that \u201cwe don\u2019t\nneed a tool to tell us how to do our job\u201d is typical of front-line employees\u2019 reactions to the introduction of [REDACTED]\ndecision support tools. Busy clinicians in the\nfast-paced [REDACTED] environment objected to the\nextra work of inputting data into a system out-\nside of their regular workflow \u2014 and they\nresented the intrusion on their domain of ex-\npertise by outsiders who they felt had little\nunderstanding of [REDACTED] operations.\nSimilar failed [REDACTED] implementations are play-\ning out in other sectors, despite the fact that\nthese new ways of working can help organiza-\ntions improve product and service quality,\nreduce costs, and increase revenues. End users\noften resist adopting [REDACTED] tools to guide deci-\nsion-making because they see few benefits for\nthemselves, and the new tools may even re-\nquire additional work and result in a loss of\nautonomy.\nSuch conflicting interests between targeted\nend users and top managers or stakeholders in\nother departments around technology imple-\nmentations are not new. Yet this problem has\nbecome more acute in the age of [REDACTED] tools,\n[REDACTED] MIT SLOAN MANAGEMENT REVIEW SUMM[REDACTED] [REDACTED]0[REDACTED][REDACTED] DAVID PLUNK[REDACTED]T/THEISPOT.COM\nbecause they are predictive, prescriptive, and re- users for the tool, often neglected these inbound\nTHE\nquire a laborious back-and-forth development candidates in favor of outbound search through\nprocess between developers and end users. platforms such as [REDACTED], because they sought to ANALYSIS\nHow, then, can [REDACTED] project leaders increase end attract a large number of candidates with difficult-\nThe authors observed\nuser acceptance and use of [REDACTED] tools? Our close to-find technical skills and few inbound candidates\nthe design, development,\nobservation of the design, development, and inte- had the required skills. Yet inbound candidates and integration of [REDACTED] [REDACTED]\ndecision support tools\ngration of [REDACTED] [REDACTED] decision support tools over the were more likely to accept job offers than were can-\nover [REDACTED]\npast five years at [REDACTED] suggests a set of best didates sourced through other means, so the tool at [REDACTED].\npractices for balancing stakeholder interests. We would benefit the organization as a whole, as well as\nfound that in order to increase end user acceptance HR interviewers downstream from the sourcers. They gathered data on\nthe challenges that [REDACTED] tool\nand the use of [REDACTED] decision support tools, organiza-\nimplementation presented\ntional and [REDACTED] project leaders need to increase [REDACTED]. [REDACTED] tools may require labor by end users who to hospital managers, end\nusers, and tool developers,\nbenefits associated with tool use, reduce the labor are not the primary beneficiaries of the tools.\nfocusing on decision\nin developing the tools, and protect autonomy by [REDACTED] tools require a laborious back-and-forth process support tools in particular.\nsafeguarding end users\u2019 core work. between developers and end users. Technology\nWe gathered data on the challenges that [REDACTED] tool developers have long engaged in user-centered They identified best\npractices for managing\nimplementation presented to hospital managers, design, using task analysis, observation, and user\nstakeholder interests\nend users, and tool developers, focusing particu- testing to incorporate the needs of end users. But that led to successful tool\nadoption in the health care\nlarly on the decision support tools that were [REDACTED] tools require a deeper level of engagement by\nsetting, and confirmed\nsuccessfully implemented. Although this research end users. that similar dynamics are\npresent and respond to\nfocused on the implementation of [REDACTED] decision sup- Because a large volume of high-quality data is\nsimilar interventions in\nport tools in health care, we have found that the required to build an [REDACTED] tool, developers rely on end other sectors as well.\nissues and dynamics we identified are also present users to identify and reconcile data differences\nin other settings, such as technology, manufactur- across groups and to unify reporting methods.\ning, insurance, telecommunications, and retail. [REDACTED]ers also rely on end users to define, evalu-\nate, and complement machine inputs and outputs\nThe Roots of End User Resistance\nat every step of the process, and to confront as-\nThe disconnects between what [REDACTED] project teams sumptions that guide end user decision-making.\nhope to implement and what the end users will- In cases where downstream stakeholders or top\ningly adopt [REDACTED] from [REDACTED] primary conflicts of managers are the primary beneficiaries of an [REDACTED]\ninterest. tool, end users may not be motivated to engage in\nthis laborious back-and-forth process with devel-\n[REDACTED]. Predictive [REDACTED] tools often deliver the lion\u2019s opers. For example, [REDACTED] doctors were not interested\nshare of benefits to the organization, not to in contributing their time and effort to the devel-\nthe end user. The predictions provided by [REDACTED] opment of the tool for identifying low-risk heart\ntools allow for earlier interventions in an organiza- attacks.\ntion\u2019s value chain, with the potential for both the Researchers at [REDACTED] found a simi-\norganization and downstream stakeholders to im- lar problem in a telecommunications company\nprove quality and reduce costs. However, there are developing an [REDACTED] tool to help salespeople identify\noften no direct benefits to the intended end users high-value accounts.[REDACTED] While top managers were\nof the tools, as in the case above, where [REDACTED] clini- interested in providing technical expertise to the\ncians were asked to use a tool that produced salespeople, the salespeople valued maintaining\nbenefits for [REDACTED] clinicians. personal and trus[REDACTED]rthy customer relationships\nA similar situation occurred at an online retailer and using their own gut feelings to identify sales\ndeveloping an [REDACTED] tool to flag inbound job candi- opportunities. They were not enthusiastic about\ndates whose resumes matched a profile based on engaging in a labor-intensive process to design,\nemployees who had been successful in the organi- develop, and integrate a tool that they didn\u2019t be-\nzation in the past. HR sourcers, the targeted end lieve would benefit them.\nSLOANREVIEW.MIT.EDU SUMM[REDACTED] [REDACTED]0[REDACTED][REDACTED] MIT SLOAN MANAGEMENT REVIEW [REDACTED]\nTECHNOLOGY IMPLEMENTATION\n[REDACTED]. Prescriptive [REDACTED] tools often curtail end user reaching into their domain and trying to control\nautonomy. [REDACTED] decision support tools are, by their their decisions.\nnature, prescriptive in that they recommend ac- A study of the use of [REDACTED] tools in retail found sim-\ntions for the end user to take, such as transferring a ilar dynamics.[REDACTED] [REDACTED] researchers examined the\npatient to the [REDACTED]. The prescriptions provided by implementation of an algorithmic decision support\n[REDACTED] tools allow internal third-party stakeholders, tool for fashion buyers. They had historically relied\nlike organizational managers or stakeholders in on their experience and intuition about upcoming\ndifferent departments, to gain new visibility into, fashion trends to decide which garments to stock in\nand even some control over, the decision-making anticipation of future demand. For example, the\nof targeted end users for the tools. Internal stake- buyers in charge of ordering men\u2019s jeans had to\nholders such as senior managers were previously make choices about styles (skinny, boot cut,\nonly able to establish protocols for action, which straight) and denim colors (light, medium, dark).\nend users would interpret and apply according to The buyers had considerable autonomy and were\ntheir own judgment about a particular case. [REDACTED] not used to having the impact of their intuitive\ntools can now inform those judgments, offer cor- judgments explicitly modeled and measured.\nresponding recommendations, and track whether\n[REDACTED]\nend users accept those suggestions \u2014 and thus\nthey have the potential to infringe on end user We found that in order to successfully implement\nautonomy. [REDACTED] tools in the face of such barriers, [REDACTED] project lead-\nFor example, once [REDACTED]\u2019s tool for identifying ers need to address the imbalance between end user\nlow-risk heart attacks had been implemented, and organizational value capture that these tools\nwhen an [REDACTED] clinician chose to admit a heart attack introduce. In practice, that means increasing the\npatient to the [REDACTED], senior managers and [REDACTED] clini- end user benefits associated with tool use, reducing\ncians could see what the [REDACTED] tool had recommended the labor in developing the tools, and protecting\nand whether the [REDACTED] clinician had followed the rec- end users\u2019 autonomy by safeguarding their core\nommendation. [REDACTED] clinicians didn\u2019t like the idea of work. (See \u201cOvercoming Resistance to [REDACTED]\nothers, who didn\u2019t have eyes on their patients, [REDACTED] Implementations.\u201d)\nOV[REDACTED]COMING RESISTANCE TO FRONT-LINE [REDACTED] IMPLEMENTATIONS\n[REDACTED] developers can increase the likelihood of tool adoption by identifying tactics to increase a tool\u2019s benefits to end users,\nreduce their labor, and protect their autonomy.\n[REDACTED] IMPLEMENTATION CHALLENGES SOLUTIONS FOR OV[REDACTED]COMING IMPLEMENTATION CHALLENGES\nThe tool might deliver benefits to [REDACTED] end user benefits:\nthird parties rather than targeted \u2022 I dentify the end users\u2019 pain points.\nend users.\n\u2022 [REDACTED] a suite of interventions.\n\u2022 I ncrease incentives for end users to accomplish the outcomes the\n[REDACTED] tool is designed to improve.\nThe tool might require labor by [REDACTED] end user labor:\nend users who are not the primary [REDACTED] third-party stakeholders in data construction, and start with\nbeneficiaries of the tool. currently available, smaller data sets.\n[REDACTED] third-party stakeholders in model evaluation, and simplify\nevaluation steps for end users.\n[REDACTED] third-party stakeholders to take on some of the work required\nfor tool use, and simplify the user interface.\nThe tool might curtail the autonomy Protect end user autonomy:\nof end users. \u2022 Protect the tasks that end users see as core to their work.\n[REDACTED] end users to help evaluate the tool.\n\u2022 Involve end users from day [REDACTED].\n[REDACTED] MIT SLOAN MANAGEMENT REVIEW SUMM[REDACTED] [REDACTED]0[REDACTED][REDACTED] SLOANREVIEW.MIT.EDU\nAs [REDACTED] tool developers keep organizational goals in mind, they\nalso need to focus on how a tool can help the intended end\nusers fix problems they face \u2014 or adjust to new workload\ndemands that result from using the tool.\n[REDACTED]. [REDACTED] end user benefits. End users will be [REDACTED] interventions that address the end\nmore likely to adopt tools if they perceive a clear users\u2019 problem. Introducing the [REDACTED] tool at [REDACTED]\nbenefit for themselves. [REDACTED] project leads can use the threatened to exacerbate [REDACTED] clinicians\u2019 problem\nfollowing strategies to help make that happen. that there was no easy way to ensure that low-risk\nIdentify the end users\u2019 \u201crock in the shoe.\u201d Even patients could easily and reliably be scheduled for\nas [REDACTED] tool developers keep organizational goals in outpatient follow-up once they were identified.\nmind, they also need to focus on how a tool can help Once team members learned this, they began to\nthe intended end users fix problems they face in their focus on how [REDACTED] clinicians could easily get these\nday-to-day work \u2014 or adjust to new workload de- patients follow-up appointments at clinics.\nmands that result from using the tool. For example, Similarly, developers of the HR screening tool\nwhen [REDACTED] cardiologists asked project team mem- noted that HR talent sourcers had a hard time\nbers to build an [REDACTED] tool to detect patients with scheduling interviews for the candidates flagged by\nlow-risk pulmonary embolism ([REDACTED]) so that the pa- the tool. So developers considered how to increase\ntients could be discharged to an outpatient setting the bandwidth of HR interviewers and wound up\nrather than being treated in a high-cost inpatient set- suggesting engaging a provider of pre-interview\nting, project team members immediately reached screening services to decrease the workload of the\nout to the [REDACTED] clinicians who would be the actual end current HR interviewers.\nusers of such a tool. The [REDACTED] project team members [REDACTED] incentives for end users to accom-\nlearned that the \u201crock in the shoe\u201d for [REDACTED] clinicians plish outcomes the [REDACTED] tool is designed to\nwas rapidly preparing low-risk [REDACTED] patients for dis- improve. End users who are expected to use a new\ncharge from the hospital and ensuring that they [REDACTED] tool to guide their decision-making are often\nwould get needed outpatient care. not measured and rewarded on the outcomes the\n[REDACTED] project leaders attempting to implement the tool is designed to improve. For example, [REDACTED] clini-\nHR tool for screening inbound candidates used this cians at [REDACTED] were measured based on how well\nsame strategy of identifying the pain point for HR they identified and treated acute, common prob-\nsourcers. The developers learned that HR sourcers lems rather than how well they identified and\ncouldn\u2019t schedule interviews for candidates as treated rarer problems like low-risk [REDACTED]. Team\nquickly as they would like because the downstream members worked with hospital leaders to revise\ninterviewers didn\u2019t have the required bandwidth. the incentive system so that [REDACTED] clinicians are now\nIt may seem obvious that [REDACTED] leaders should also measured based on how well they identify and\nfocus on how a tool can help the intended end users triage low-risk [REDACTED] patients.\nfix problems they face in their day-to-day work. So Similarly, the top managers hoping to implement\nwhy do [REDACTED] project leaders often fail to do it? Because an [REDACTED] tool for candidate screening in our earlier ex-\nthe people who approach these leaders in the first ample recognized that they would need to change\nplace, and who provide the resources for tool devel- incentives for end users to accomplish the outcome\nopment, are often the top managers or downstream the [REDACTED] tool was designed to improve. When HR staff\nstakeholders who stand to gain the most from the members used the [REDACTED] tool, they would be seen as\n[REDACTED] tool. Project leaders often see them as the pri- less productive if evaluated only on traditional\nmary customers and can lose sight of the need to performance measures such as total number of can-\nget the intended end users on board. didates sourced with difficult-to-find technical\nSLOANREVIEW.MIT.EDU SUMM[REDACTED] [REDACTED]0[REDACTED][REDACTED] MIT SLOAN MANAGEMENT REVIEW [REDACTED]\nTECHNOLOGY IMPLEMENTATION\nskills. Managers realized that they would need to (physicians with kidney expertise), who were the\nadapt their evaluation and reward practices so that primary beneficiaries of the tool.\nemployees had incentives not only to source a high [REDACTED] project leaders can also start with a good-\nnumber of candidates with difficult-to-find skills enough [REDACTED] tool that can be trained using currently\nbut also to source a high number of candidates who available, often smaller data sets. For example, an\neventually accepted job offers. [REDACTED] leader developing a tool to help salespeople in a\nOf course, [REDACTED] leaders can\u2019t easily increase incen- manufacturing organization identify potential\ntives for end users to accomplish the outcomes the high-value accounts wanted to minimize end user\n[REDACTED] tool is designed to improve, because the stake- labor associated with assembling relevant data sets.\nholders who stand to gain the most from the tool are Rather than asking salespeople to take the time to\noften not the people who manage performance and better log data related to the different milest[REDACTED]s of\ncompensation for the targeted end users. [REDACTED] project the sales process (such as lead, qualified lead, and\nleaders often need to gain the support of senior man- demo), the [REDACTED] team first built a system with models\nagers to help change these incentives. that were good enough to use but required a smaller\namount of training data and thus less data prepara-\n[REDACTED]. [REDACTED] end user labor in the design, devel- tion by the salespeople.\nopment, and integration of [REDACTED] tools. There are a During tool development, minimize end user\nnumber of ways that [REDACTED] development teams can labor associated with testing and validation.\nminimize the extent to which they call on end users Once an initial [REDACTED] tool has been built, development\nfor help. teams need to engage in a time-consuming back-\nDuring tool design, minimize end user labor and-forth process with end users to help test and\nassociated with constructing relevant data sets. validate the tool\u2019s predictions and modify the tool\nThe data used to train [REDACTED] tools must be representa- to improve its real-world utility. This work can be\ntive of the target population. This necessitates that minimized by engaging third-party stakeholders in\nthe volume of training data be large, but assem- the reviews. For example, project leaders develop-\nbling such data and reconciling differences across ing the [REDACTED] tool to identify the best sales leads in a\ndata sets is very time-consuming. [REDACTED] project lead- manufacturing organization enlisted the head of\ners can minimize end user labor associated with process improvement rather than the salespeople\nsuch work by engaging third-party stakeholders in to help with the initial evaluation of the tool. The\ndata construction. For example, [REDACTED] project team head of process improvement helped them identify\nmembers worked on an [REDACTED] tool to increase early a success metric of conversion rate \u2014 the percent-\ndetection of patients at high risk of advanced age of potential leads that later became customers.\nchronic kidney disease ([REDACTED]). Data for the tool He also helped them do an A/B test comparing the\nneeded to be drawn from both electronic health conversion rate for sales leads identified by the tool\nrecords and claims data, and the [REDACTED] data sources versus those identified in the regular sales process.\nwere not consistent with each other. Instead of [REDACTED] project leaders can also frequently do more\nburdening the intended end users of the tool (pri- to help end users more easily evaluate models. For\nmary care physicians, or [REDACTED]s) with data-cleaning example, [REDACTED] project team members developing\ntasks, the team validated the data and normalized the tool to detect [REDACTED] found that end users had\nit across sources with the help of nephrologists difficulty determining the risk score threshold for\nAssembling large volumes of training data and reconciling data\nsets is time-consuming. [REDACTED] project leaders can minimize end\nuser labor associated with such work by engaging third-party\nstakeholders in data construction.\n[REDACTED] MIT SLOAN MANAGEMENT REVIEW SUMM[REDACTED] [REDACTED]0[REDACTED][REDACTED] SLOANREVIEW.MIT.EDU\nconsidering patients to be at high risk. Project team [REDACTED]. Protect end user autonomy. Humans value au-\nmembers used interactive charts to help them see tonomy and gain self-esteem from the job mastery\nwhat percentage of the patients with a certain score and knowledge they have accrued, so it\u2019s natural that\neventually developed [REDACTED]. This allowed the end users may feel uneasy when [REDACTED] tools allow stake-\nusers to more easily set thresholds for high-risk holders from outside of their domain to shape their\nversus medium-risk patients. decision-making. [REDACTED]ful [REDACTED] implementations\nDuring tool integration, minimize end user require sensitivity to how they may affect end users\u2019\nlabor associated with tool use. Attention to simpli- relationship with their work. [REDACTED]ers can attend\nfying the user interface and automating related to it in the following ways.\nprocesses can help reduce users\u2019 sense that a tool is Protect the tasks that end users see as core to\nloading them up with extra work. [REDACTED] rule of thumb their work. When [REDACTED] project team members de-\nis to never ask the user to enter data that the system veloped an [REDACTED] tool to help better detect and manage\ncould have automatically retrieved. It\u2019s better still if sepsis, an infection that triggers full-body inflam-\nyou can actually predict what the user will want and mation and ultimately causes organs to shut down,\npre-stage the interface so that it is available to them. many of the [REDACTED] clinicians targeted as end users of\nIn another example involving an [REDACTED] tool for the tool pushed back. They wanted to retain key\ncandidate screening, researchers at the Kin Center tasks such as making the final call on the patient\u2019s\nfor [REDACTED] at Vrije Universiteit in diagnosis and placing orders for required blood\n[REDACTED] found that developers first made it eas- tests and medications. The project team configured\nier for HR recruiters in a consumer goods company the [REDACTED] tool so that its predictions did not infringe\nto use the tool by color-coding how well a given upon those tasks but did assist [REDACTED] clinicians with\ncandidate matched against employees who had important tasks less valued by the clinicians.\nsucceeded in the organization in the past. Records In the case of the fashion buyers, the tool devel-\nof candidates with a match of 7[REDACTED]% or higher were opers learned that buyers wanted to maintain what\ncolored green, and those below were colored or- they saw as creative or strategic tasks, such as decid-\nange.[REDACTED] Eventually, developers automated the ing what percentage of their overall jeans purchase\nprocess even further so that recruiters could click a should comprise boot cut styles or red denim. The\nbutton and the tool would automatically filter out project team configured the tool so that if the buy-\nall candidates with lower predicted success. er\u2019s vision was to have red denim, the buyer could\nAnother tactic is to reassign some of the addi- add this as an input to the tool\u2019s recommendations\ntional work required for tool use, if possible. For so that the red denim order was filled first.\nexample, [REDACTED] physicians targeted for use of the kid- It may seem self-evident that developers should\nney disease tool suffered alert fatigue, because they avoid creating [REDACTED] tools that infringe on the tasks\nwere receiving many other automated clinical deci- that end users see as core to their work, but [REDACTED]\nsion support alerts as well. [REDACTED] project leaders project leaders may fall into this trap because inter-\nreduced the number of physician alerts from the vening around core tasks often promises to yield\ntool by creating a new clinical position and greater gains. For example, in [REDACTED] retail organiza-\nassigning that person to use the tool to remotely tion, developers initially built a tool to inform\nmonitor all [REDACTED] [REDACTED]s\u2019 patients \u2014 [REDACTED] fashion buyers\u2019 decision-making. Suboptimal\nadults. When the tool flagged a patient as being at decision-making at this stage had [REDACTED] effects: lost\nhigh risk of [REDACTED], that clinician prescreened the alert revenue opportunities from not stocking the right\nfor the [REDACTED] by conducting a chart review. products to meet demand, and lost gross margin\nIf the clinician determined that the patient was from buying the wrong product and subsequently\nindeed at high risk of [REDACTED], they sent a message having to mark it down. However, fashion buyers\nto the [REDACTED]. When the [REDACTED] received this message, rejected the tool, so developers pivoted and went to\nif they agreed that the patient was likely to have [REDACTED], the other end of the process \u2014 developing a tool\nthey referred the patient for an in-person visit to a that helped store merchants decide when and how\nnephrologist. much to mark down apparel that was not selling.\nSLOANREVIEW.MIT.EDU SUMM[REDACTED] [REDACTED]0[REDACTED][REDACTED] MIT SLOAN MANAGEMENT REVIEW [REDACTED]\nTECHNOLOGY IMPLEMENTATION\nThis tool enabled much less value capture, because leaders have learned that involving end users at the\nit focused only on the final phase of the fashion outset of the project makes that much more likely.\nretail process. However, smart [REDACTED] leaders have\nlearned that intervening around a circumscribed BEHIND THE GLITT[REDACTED]ING PRO[REDACTED]E of [REDACTED] lies a\nset of tasks with a tool that actually gets imple- stark reality: The best [REDACTED] tools in the world mean\nmented is a lot more useful than intervening nothing if they aren\u2019t accepted. To get front-line\naround end users\u2019 core tasks with a tool that [REDACTED] users\u2019 buy-in, leaders have to first understand the\ners more value in theory but isn\u2019t used in practice. [REDACTED] primary conflicts of interest in [REDACTED] implemen-\n[REDACTED] end users to help evaluate the tool. tations: Targeted end users for [REDACTED] tools might\nIntroducing a new [REDACTED] decision support tool often re- realize few benefits themselves, be tasked with\nquires replacing a current tool that may be supported additional work related to development or use of\nby targeted end users with a new tool that threatens the tool, and lose valued autonomy. Only then\nto curtail their autonomy. For example, the [REDACTED]-based can leaders lay the groundwork for success, by ad-\nsepsis tool threatened the autonomy of the [REDACTED] clini- dressing the imbalance between end user and\ncians in a way that an existing rules-based tool for organizational value capture that these tools intro-\ndetecting sepsis did not. To protect end user auton- duce. [REDACTED] doesn\u2019t arise from big data, sparkling\nomy, project team members invited key stakeholders technologies, and bold promises. Instead, it de-\nwho had developed the tool currently in use and pends on the decisions made, day in and day out, by\nasked for their help designing an experiment that employees on the ground. To make the promise of\nwould test the effectiveness of the new tool. [REDACTED] a reality, leaders need to take into account the\nResearchers at [REDACTED] found needs of those who are working on the front lines to\nsimilar dynamics in their study of a retail organiza- allow [REDACTED] to function in the real world.\ntion that developed an [REDACTED] tool designed to help\n[REDACTED] (@kate_kellogg) is the [REDACTED]\nfashion allocators decide how many of each particu- [REDACTED] ([REDACTED]959) Professor of Management and\nlar shoe size and style to ship to which store.[REDACTED] The Innovation at [REDACTED].\n[REDACTED] (@marksendak) is the population\nvisibility that the tool gave to managers outside of\nhealth and data science lead at the [REDACTED] Institute\nthe process had the potential to threaten the auton- for [REDACTED]. Suresh Balu is the associate\nomy of the allocators in a way that the existing dean for innovation and partnership for the [REDACTED]\nUniversity School of Medicine and program direc-\nrules-based tool did not. To protect autonomy, proj-\ntor of the [REDACTED] Institute for [REDACTED]\nect team members enlisted the fashion allocators in (@dukeinnovate).\ndesigning an A/B test to evaluate the performance\nREF[REDACTED]ENCES\nof the existing tool versus the new [REDACTED] tool.\nGiving target end users a say in the evaluation [REDACTED]. [REDACTED], [REDACTED], [REDACTED], et [REDACTED], \u201cMake Way\nfor the Algorithms: Symbolic Actions and Change in a\nprocess makes perfect sense, so why don\u2019t all [REDACTED] proj-\nRegime of Knowing,\u201d Organization Science [REDACTED][REDACTED], no. [REDACTED]\nect team leaders do it? Because whenever you involve (January-February [REDACTED]0[REDACTED][REDACTED]): [REDACTED]8-[REDACTED][REDACTED].\nend users in choosing which areas of their work to\n[REDACTED]. [REDACTED] and [REDACTED], \u201c\u2018Rolling Up the Leaf Node\u2019\nsubject to testing, they will pick the hardest parts. to [REDACTED], and Org Charts,\u201d\nHowever, since they are the [REDACTED]s who will need to act\nworking paper, [REDACTED] University, [REDACTED], [REDACTED],\non the recommendations, you can\u2019t skip this step. May [REDACTED]0[REDACTED][REDACTED].\nInvolve end users from day [REDACTED]. [REDACTED] project\n[REDACTED]. [REDACTED] Broek, A. Sergeeva, and [REDACTED],\nleaders frequently keep [REDACTED] tool development quiet \u201cWhen the Machine Meets the Expert: An Ethnography\nof [REDACTED]ing [REDACTED] for Hiring,\u201d [REDACTED] Quarterly [REDACTED], no. [REDACTED]\nin the early stages to forestall expected user resis-\n(September [REDACTED]0[REDACTED][REDACTED]): [REDACTED]57-[REDACTED]80.\ntance. But project leaders who don\u2019t involve users\n[REDACTED]. T. DeStefano, [REDACTED], and [REDACTED],\nearly are much less likely to succeed. Users will re-\n\u201cA Field Experiment on [REDACTED] Adoption and Allocation\nsent that they were brought in late, and they will Efficiency,\u201d forthcoming.\nhold a grudge. Even if an [REDACTED] tool can fully auto-\nReprint 6[REDACTED][REDACTED][REDACTED][REDACTED].\nmate a process, end users will need to accept the Copyright \u00a9 [REDACTED], [REDACTED]0[REDACTED][REDACTED].\ntool in order for it to work. [REDACTED]ful [REDACTED] project All rights reserved.\n[REDACTED] MIT SLOAN MANAGEMENT REVIEW SUMM[REDACTED] [REDACTED]0[REDACTED][REDACTED] SLOANREVIEW.MIT.EDU\nReproduced with permission of copyright owner. Further reproduction\nprohibited without permission.",
+    "section_classification": {
+        "NOTICE": "Legal Information",
+        "The Attached Material May Be Protected By Copyright Law ([REDACTED] U.S. Code)*": "Legal Information",
+        "*See Title [REDACTED]7 \u00a7 [REDACTED] of the Code of Federal Regulations:": "Legal Information",
+        "https://www.law.cornell.edu/cfr/text/[REDACTED]7/[REDACTED]": "Legal Information",
+        "The copyright law of [REDACTED] (title [REDACTED]7, [REDACTED] Code) governs the": "Legal Information",
+        "making of photocopies or other reproductions of copyrighted materi[REDACTED]": "Medical Record",
+        "Under certain conditions specified in the law, libraries and archives are authorized": "Legal Information",
+        "to furnish a photocopy or other reproduction. [REDACTED] of these specific conditions is": "Medical Record",
+        "that the photocopy or reproduction is not to be \u201cused for any purpose other than": "Legal Information",
+        "private study, scholarship, or research.\u201d If a user makes a request for, or later": "Personal Information",
+        "uses, a photocopy or reproduction for purposes in excess of \u201cfair use,\u201d that user": "Legal Information",
+        "may be liable for copyright infringement.": "Legal Information",
+        "This institution reserves the right to refuse to accept a copying order if, in its": "Legal Information",
+        "judgment, fulfillment of the order would involve violation of copyright law.": "Legal Information",
+        "Provided by: [REDACTED] at [REDACTED]": "Personal Information",
+        "The [REDACTED] at [REDACTED]": "Personal Information",
+        "70[REDACTED] Planetarium Place, [REDACTED], [REDACTED] 760[REDACTED]9-0[REDACTED]7": "Personal Information",
+        "[REDACTED]-[REDACTED]7[REDACTED]-[REDACTED][REDACTED][REDACTED] | [REDACTED] on the [REDACTED]": "Personal Information",
+        "[REDACTED] progress can stall when end users resist adoption. [REDACTED]ers must think beyond a": "Personal Information",
+        "project\u2019s business benefits and ensure that end users\u2019 workflow concerns are addressed.": "Legal Information",
+        "BY [REDACTED], [REDACTED], AND SURESH BALU": "Personal Information",
+        "I": "Personal Information",
+        "t\u2019s [REDACTED]0 a.m. on a [REDACTED], and [REDACTED], [REDACTED] of the developers of a new artificial intelligence tool, is": "Personal Information",
+        "excited about the technology launching [REDACTED]. Leaders of [REDACTED] intensive": "Personal Information",
+        "care unit had asked [REDACTED] and his colleagues to develop an [REDACTED] tool to help prevent overcrowding": "Personal Information",
+        "in their unit. Research had shown that patients coming to the hospital with a particular type of": "Personal Information",
+        "heart attack did not require hospitalization in the [REDACTED], and its leaders hoped that an [REDACTED] tool": "Personal Information",
+        "would help emergency room clinicians identify these patients and refer them to noncritical care.": "Personal Information",
+        "This would both improve quality of care for patients and reduce unnecessary costs.": "Personal Information",
+        "[REDACTED] and his team of cardiologists, data scientists, computer scientists, and project man-": "Personal Information",
+        "agers had developed an [REDACTED] tool that made it easy for clinicians to identify these patients. It": "Personal Information",
+        "also inserted language into the patients\u2019 electronic medical records to explain why they did": "Medical Record",
+        "not need to be transferred to the [REDACTED]. Finally, after [REDACTED] of work, the tool was ready for action.": "Legal Information",
+        "Fast-forward [REDACTED]. The launch of the tool had failed. [REDACTED] [REDACTED] doctor\u2019s comment that \u201cwe don\u2019t": "Medical Record",
+        "need a tool to tell us how to do our job\u201d is typical of front-line employees\u2019 reactions to the introduction of [REDACTED]": "Personal Information",
+        "decision support tools. Busy clinicians in the": "Medical Record",
+        "fast-paced [REDACTED] environment objected to the": "Personal Information",
+        "extra work of inputting data into a system out-": "Medical Record",
+        "side of their regular workflow \u2014 and they": "Medical Record",
+        "resented the intrusion on their domain of ex-": "Personal Information",
+        "pertise by outsiders who they felt had little": "Personal Information",
+        "understanding of [REDACTED] operations.": "Legal Information",
+        "Similar failed [REDACTED] implementations are play-": "Personal Information",
+        "ing out in other sectors, despite the fact that": "Personal Information",
+        "these new ways of working can help organiza-": "Medical Record",
+        "tions improve product and service quality,": "Personal Information",
+        "reduce costs, and increase revenues. End users": "Financial Data",
+        "often resist adopting [REDACTED] tools to guide deci-": "Personal Information",
+        "sion-making because they see few benefits for": "Personal Information",
+        "themselves, and the new tools may even re-": "Personal Information",
+        "quire additional work and result in a loss of": "Personal Information",
+        "autonomy.": "Personal Information",
+        "Such conflicting interests between targeted": "Personal Information",
+        "end users and top managers or stakeholders in": "Personal Information",
+        "other departments around technology imple-": "Personal Information",
+        "mentations are not new. Yet this problem has": "Personal Information",
+        "become more acute in the age of [REDACTED] tools,": "Personal Information",
+        "[REDACTED] MIT SLOAN MANAGEMENT REVIEW SUMM[REDACTED] [REDACTED]0[REDACTED][REDACTED] DAVID PLUNK[REDACTED]T/THEISPOT.COM": "Legal Information",
+        "because they are predictive, prescriptive, and re- users for the tool, often neglected these inbound": "Personal Information",
+        "THE": "Personal Information",
+        "quire a laborious back-and-forth development candidates in favor of outbound search through": "Personal Information",
+        "process between developers and end users. platforms such as [REDACTED], because they sought to ANALYSIS": "Personal Information",
+        "How, then, can [REDACTED] project leaders increase end attract a large number of candidates with difficult-": "Personal Information",
+        "The authors observed": "Personal Information",
+        "user acceptance and use of [REDACTED] tools? Our close to-find technical skills and few inbound candidates": "Personal Information",
+        "the design, development,": "Legal Information",
+        "observation of the design, development, and inte- had the required skills. Yet inbound candidates and integration of [REDACTED] [REDACTED]": "Personal Information",
+        "decision support tools": "Personal Information",
+        "gration of [REDACTED] [REDACTED] decision support tools over the were more likely to accept job offers than were can-": "Personal Information",
+        "over [REDACTED]": "Personal Information",
+        "past five years at [REDACTED] suggests a set of best didates sourced through other means, so the tool at [REDACTED].": "Personal Information",
+        "practices for balancing stakeholder interests. We would benefit the organization as a whole, as well as": "Personal Information",
+        "found that in order to increase end user acceptance HR interviewers downstream from the sourcers. They gathered data on": "Personal Information",
+        "the challenges that [REDACTED] tool": "Personal Information",
+        "and the use of [REDACTED] decision support tools, organiza-": "Personal Information",
+        "implementation presented": "Medical Record",
+        "tional and [REDACTED] project leaders need to increase [REDACTED]. [REDACTED] tools may require labor by end users who to hospital managers, end": "Personal Information",
+        "users, and tool developers,": "Personal Information",
+        "benefits associated with tool use, reduce the labor are not the primary beneficiaries of the tools.": "Personal Information",
+        "focusing on decision": "Legal Information",
+        "in developing the tools, and protect autonomy by [REDACTED] tools require a laborious back-and-forth process support tools in particular.": "Personal Information",
+        "safeguarding end users\u2019 core work. between developers and end users. Technology": "Personal Information",
+        "We gathered data on the challenges that [REDACTED] tool developers have long engaged in user-centered They identified best": "Personal Information",
+        "practices for managing": "Medical Record",
+        "implementation presented to hospital managers, design, using task analysis, observation, and user": "Medical Record",
+        "stakeholder interests": "Medical Record",
+        "end users, and tool developers, focusing particu- testing to incorporate the needs of end users. But that led to successful tool": "Personal Information",
+        "adoption in the health care": "Medical Record",
+        "larly on the decision support tools that were [REDACTED] tools require a deeper level of engagement by": "Personal Information",
+        "setting, and confirmed": "Personal Information",
+        "successfully implemented. Although this research end users. that similar dynamics are": "Personal Information",
+        "present and respond to": "Personal Information",
+        "focused on the implementation of [REDACTED] decision sup- Because a large volume of high-quality data is": "Legal Information",
+        "similar interventions in": "Medical Record",
+        "port tools in health care, we have found that the required to build an [REDACTED] tool, developers rely on end other sectors as well.": "Personal Information",
+        "issues and dynamics we identified are also present users to identify and reconcile data differences": "Personal Information",
+        "in other settings, such as technology, manufactur- across groups and to unify reporting methods.": "Legal Information",
+        "ing, insurance, telecommunications, and retail. [REDACTED]ers also rely on end users to define, evalu-": "Personal Information",
+        "ate, and complement machine inputs and outputs": "Medical Record",
+        "The Roots of End User Resistance": "Legal Information",
+        "at every step of the process, and to confront as-": "Legal Information",
+        "The disconnects between what [REDACTED] project teams sumptions that guide end user decision-making.": "Personal Information",
+        "hope to implement and what the end users will- In cases where downstream stakeholders or top": "Legal Information",
+        "ingly adopt [REDACTED] from [REDACTED] primary conflicts of managers are the primary beneficiaries of an [REDACTED]": "Personal Information",
+        "interest. tool, end users may not be motivated to engage in": "Personal Information",
+        "this laborious back-and-forth process with devel-": "Personal Information",
+        "[REDACTED]. Predictive [REDACTED] tools often deliver the lion\u2019s opers. For example, [REDACTED] doctors were not interested": "Personal Information",
+        "share of benefits to the organization, not to in contributing their time and effort to the devel-": "Legal Information",
+        "the end user. The predictions provided by [REDACTED] opment of the tool for identifying low-risk heart": "Personal Information",
+        "tools allow for earlier interventions in an organiza- attacks.": "Medical Record",
+        "tion\u2019s value chain, with the potential for both the Researchers at [REDACTED] found a simi-": "Personal Information",
+        "organization and downstream stakeholders to im- lar problem in a telecommunications company": "Legal Information",
+        "prove quality and reduce costs. However, there are developing an [REDACTED] tool to help salespeople identify": "Personal Information",
+        "often no direct benefits to the intended end users high-value accounts.[REDACTED] While top managers were": "Personal Information",
+        "of the tools, as in the case above, where [REDACTED] clini- interested in providing technical expertise to the": "Medical Record",
+        "cians were asked to use a tool that produced salespeople, the salespeople valued maintaining": "Personal Information",
+        "benefits for [REDACTED] clinicians. personal and trus[REDACTED]rthy customer relationships": "Personal Information",
+        "A similar situation occurred at an online retailer and using their own gut feelings to identify sales": "Personal Information",
+        "developing an [REDACTED] tool to flag inbound job candi- opportunities. They were not enthusiastic about": "Personal Information",
+        "dates whose resumes matched a profile based on engaging in a labor-intensive process to design,": "Personal Information",
+        "employees who had been successful in the organi- develop, and integrate a tool that they didn\u2019t be-": "Medical Record",
+        "zation in the past. HR sourcers, the targeted end lieve would benefit them.": "Personal Information",
+        "SLOANREVIEW.MIT.EDU SUMM[REDACTED] [REDACTED]0[REDACTED][REDACTED] MIT SLOAN MANAGEMENT REVIEW [REDACTED]": "Legal Information",
+        "TECHNOLOGY IMPLEMENTATION": "Personal Information",
+        "[REDACTED]. Prescriptive [REDACTED] tools often curtail end user reaching into their domain and trying to control": "Personal Information",
+        "autonomy. [REDACTED] decision support tools are, by their their decisions.": "Personal Information",
+        "nature, prescriptive in that they recommend ac- A study of the use of [REDACTED] tools in retail found sim-": "Legal Information",
+        "tions for the end user to take, such as transferring a ilar dynamics.[REDACTED] [REDACTED] researchers examined the": "Legal Information",
+        "patient to the [REDACTED]. The prescriptions provided by implementation of an algorithmic decision support": "Personal Information",
+        "[REDACTED] tools allow internal third-party stakeholders, tool for fashion buyers. They had historically relied": "Personal Information",
+        "like organizational managers or stakeholders in on their experience and intuition about upcoming": "Personal Information",
+        "different departments, to gain new visibility into, fashion trends to decide which garments to stock in": "Personal Information",
+        "and even some control over, the decision-making anticipation of future demand. For example, the": "Legal Information",
+        "of targeted end users for the tools. Internal stake- buyers in charge of ordering men\u2019s jeans had to": "Personal Information",
+        "holders such as senior managers were previously make choices about styles (skinny, boot cut,": "Personal Information",
+        "only able to establish protocols for action, which straight) and denim colors (light, medium, dark).": "Legal Information",
+        "end users would interpret and apply according to The buyers had considerable autonomy and were": "Personal Information",
+        "their own judgment about a particular case. [REDACTED] not used to having the impact of their intuitive": "Personal Information",
+        "tools can now inform those judgments, offer cor- judgments explicitly modeled and measured.": "Personal Information",
+        "responding recommendations, and track whether": "Personal Information",
+        "[REDACTED]": "Personal Information",
+        "end users accept those suggestions \u2014 and thus": "Personal Information",
+        "they have the potential to infringe on end user We found that in order to successfully implement": "Personal Information",
+        "autonomy. [REDACTED] tools in the face of such barriers, [REDACTED] project lead-": "Personal Information",
+        "For example, once [REDACTED]\u2019s tool for identifying ers need to address the imbalance between end user": "Personal Information",
+        "low-risk heart attacks had been implemented, and organizational value capture that these tools": "Medical Record",
+        "when an [REDACTED] clinician chose to admit a heart attack introduce. In practice, that means increasing the": "Medical Record",
+        "patient to the [REDACTED], senior managers and [REDACTED] clini- end user benefits associated with tool use, reducing": "Personal Information",
+        "cians could see what the [REDACTED] tool had recommended the labor in developing the tools, and protecting": "Personal Information",
+        "and whether the [REDACTED] clinician had followed the rec- end users\u2019 autonomy by safeguarding their core": "Personal Information",
+        "ommendation. [REDACTED] clinicians didn\u2019t like the idea of work. (See \u201cOvercoming Resistance to [REDACTED]": "Medical Record",
+        "others, who didn\u2019t have eyes on their patients, [REDACTED] Implementations.\u201d)": "Personal Information",
+        "OV[REDACTED]COMING RESISTANCE TO FRONT-LINE [REDACTED] IMPLEMENTATIONS": "Legal Information",
+        "[REDACTED] developers can increase the likelihood of tool adoption by identifying tactics to increase a tool\u2019s benefits to end users,": "Personal Information",
+        "reduce their labor, and protect their autonomy.": "Personal Information",
+        "[REDACTED] IMPLEMENTATION CHALLENGES SOLUTIONS FOR OV[REDACTED]COMING IMPLEMENTATION CHALLENGES": "Personal Information",
+        "The tool might deliver benefits to [REDACTED] end user benefits:": "Personal Information",
+        "third parties rather than targeted \u2022 I dentify the end users\u2019 pain points.": "Personal Information",
+        "end users.": "Personal Information",
+        "\u2022 [REDACTED] a suite of interventions.": "Personal Information",
+        "\u2022 I ncrease incentives for end users to accomplish the outcomes the": "Legal Information",
+        "[REDACTED] tool is designed to improve.": "Personal Information",
+        "The tool might require labor by [REDACTED] end user labor:": "Personal Information",
+        "end users who are not the primary [REDACTED] third-party stakeholders in data construction, and start with": "Personal Information",
+        "beneficiaries of the tool. currently available, smaller data sets.": "Medical Record",
+        "[REDACTED] third-party stakeholders in model evaluation, and simplify": "Personal Information",
+        "evaluation steps for end users.": "Personal Information",
+        "[REDACTED] third-party stakeholders to take on some of the work required": "Personal Information",
+        "for tool use, and simplify the user interface.": "Medical Record",
+        "The tool might curtail the autonomy Protect end user autonomy:": "Personal Information",
+        "of end users. \u2022 Protect the tasks that end users see as core to their work.": "Personal Information",
+        "[REDACTED] end users to help evaluate the tool.": "Personal Information",
+        "\u2022 Involve end users from day [REDACTED].": "Personal Information",
+        "[REDACTED] MIT SLOAN MANAGEMENT REVIEW SUMM[REDACTED] [REDACTED]0[REDACTED][REDACTED] SLOANREVIEW.MIT.EDU": "Legal Information",
+        "As [REDACTED] tool developers keep organizational goals in mind, they": "Personal Information",
+        "also need to focus on how a tool can help the intended end": "Legal Information",
+        "users fix problems they face \u2014 or adjust to new workload": "Legal Information",
+        "demands that result from using the tool.": "Medical Record",
+        "[REDACTED]. [REDACTED] end user benefits. End users will be [REDACTED] interventions that address the end": "Personal Information",
+        "more likely to adopt tools if they perceive a clear users\u2019 problem. Introducing the [REDACTED] tool at [REDACTED]": "Personal Information",
+        "benefit for themselves. [REDACTED] project leads can use the threatened to exacerbate [REDACTED] clinicians\u2019 problem": "Personal Information",
+        "following strategies to help make that happen. that there was no easy way to ensure that low-risk": "Personal Information",
+        "Identify the end users\u2019 \u201crock in the shoe.\u201d Even patients could easily and reliably be scheduled for": "Personal Information",
+        "as [REDACTED] tool developers keep organizational goals in outpatient follow-up once they were identified.": "Personal Information",
+        "mind, they also need to focus on how a tool can help Once team members learned this, they began to": "Personal Information",
+        "the intended end users fix problems they face in their focus on how [REDACTED] clinicians could easily get these": "Personal Information",
+        "day-to-day work \u2014 or adjust to new workload de- patients follow-up appointments at clinics.": "Medical Record",
+        "mands that result from using the tool. For example, Similarly, developers of the HR screening tool": "Legal Information",
+        "when [REDACTED] cardiologists asked project team mem- noted that HR talent sourcers had a hard time": "Personal Information",
+        "bers to build an [REDACTED] tool to detect patients with scheduling interviews for the candidates flagged by": "Personal Information",
+        "low-risk pulmonary embolism ([REDACTED]) so that the pa- the tool. So developers considered how to increase": "Personal Information",
+        "tients could be discharged to an outpatient setting the bandwidth of HR interviewers and wound up": "Personal Information",
+        "rather than being treated in a high-cost inpatient set- suggesting engaging a provider of pre-interview": "Personal Information",
+        "ting, project team members immediately reached screening services to decrease the workload of the": "Personal Information",
+        "out to the [REDACTED] clinicians who would be the actual end current HR interviewers.": "Personal Information",
+        "users of such a tool. The [REDACTED] project team members [REDACTED] incentives for end users to accom-": "Personal Information",
+        "learned that the \u201crock in the shoe\u201d for [REDACTED] clinicians plish outcomes the [REDACTED] tool is designed to": "Personal Information",
+        "was rapidly preparing low-risk [REDACTED] patients for dis- improve. End users who are expected to use a new": "Personal Information",
+        "charge from the hospital and ensuring that they [REDACTED] tool to guide their decision-making are often": "Personal Information",
+        "would get needed outpatient care. not measured and rewarded on the outcomes the": "Personal Information",
+        "[REDACTED] project leaders attempting to implement the tool is designed to improve. For example, [REDACTED] clini-": "Personal Information",
+        "HR tool for screening inbound candidates used this cians at [REDACTED] were measured based on how well": "Personal Information",
+        "same strategy of identifying the pain point for HR they identified and treated acute, common prob-": "Medical Record",
+        "sourcers. The developers learned that HR sourcers lems rather than how well they identified and": "Personal Information",
+        "couldn\u2019t schedule interviews for candidates as treated rarer problems like low-risk [REDACTED]. Team": "Personal Information",
+        "quickly as they would like because the downstream members worked with hospital leaders to revise": "Personal Information",
+        "interviewers didn\u2019t have the required bandwidth. the incentive system so that [REDACTED] clinicians are now": "Personal Information",
+        "It may seem obvious that [REDACTED] leaders should also measured based on how well they identify and": "Personal Information",
+        "focus on how a tool can help the intended end users triage low-risk [REDACTED] patients.": "Personal Information",
+        "fix problems they face in their day-to-day work. So Similarly, the top managers hoping to implement": "Legal Information",
+        "why do [REDACTED] project leaders often fail to do it? Because an [REDACTED] tool for candidate screening in our earlier ex-": "Personal Information",
+        "the people who approach these leaders in the first ample recognized that they would need to change": "Personal Information",
+        "place, and who provide the resources for tool devel- incentives for end users to accomplish the outcome": "Legal Information",
+        "opment, are often the top managers or downstream the [REDACTED] tool was designed to improve. When HR staff": "Personal Information",
+        "stakeholders who stand to gain the most from the members used the [REDACTED] tool, they would be seen as": "Personal Information",
+        "[REDACTED] tool. Project leaders often see them as the pri- less productive if evaluated only on traditional": "Personal Information",
+        "mary customers and can lose sight of the need to performance measures such as total number of can-": "Medical Record",
+        "get the intended end users on board. didates sourced with difficult-to-find technical": "Medical Record",
+        "skills. Managers realized that they would need to (physicians with kidney expertise), who were the": "Personal Information",
+        "adapt their evaluation and reward practices so that primary beneficiaries of the tool.": "Personal Information",
+        "employees had incentives not only to source a high [REDACTED] project leaders can also start with a good-": "Personal Information",
+        "number of candidates with difficult-to-find skills enough [REDACTED] tool that can be trained using currently": "Personal Information",
+        "but also to source a high number of candidates who available, often smaller data sets. For example, an": "Personal Information",
+        "eventually accepted job offers. [REDACTED] leader developing a tool to help salespeople in a": "Personal Information",
+        "Of course, [REDACTED] leaders can\u2019t easily increase incen- manufacturing organization identify potential": "Personal Information",
+        "tives for end users to accomplish the outcomes the high-value accounts wanted to minimize end user": "Financial Data",
+        "[REDACTED] tool is designed to improve, because the stake- labor associated with assembling relevant data sets.": "Personal Information",
+        "holders who stand to gain the most from the tool are Rather than asking salespeople to take the time to": "Personal Information",
+        "often not the people who manage performance and better log data related to the different milest[REDACTED]s of": "Personal Information",
+        "compensation for the targeted end users. [REDACTED] project the sales process (such as lead, qualified lead, and": "Personal Information",
+        "leaders often need to gain the support of senior man- demo), the [REDACTED] team first built a system with models": "Personal Information",
+        "agers to help change these incentives. that were good enough to use but required a smaller": "Personal Information",
+        "amount of training data and thus less data prepara-": "Personal Information",
+        "[REDACTED]. [REDACTED] end user labor in the design, devel- tion by the salespeople.": "Personal Information",
+        "opment, and integration of [REDACTED] tools. There are a During tool development, minimize end user": "Personal Information",
+        "number of ways that [REDACTED] development teams can labor associated with testing and validation.": "Personal Information",
+        "minimize the extent to which they call on end users Once an initial [REDACTED] tool has been built, development": "Personal Information",
+        "for help. teams need to engage in a time-consuming back-": "Medical Record",
+        "During tool design, minimize end user labor and-forth process with end users to help test and": "Personal Information",
+        "associated with constructing relevant data sets. validate the tool\u2019s predictions and modify the tool": "Medical Record",
+        "The data used to train [REDACTED] tools must be representa- to improve its real-world utility. This work can be": "Personal Information",
+        "tive of the target population. This necessitates that minimized by engaging third-party stakeholders in": "Personal Information",
+        "the volume of training data be large, but assem- the reviews. For example, project leaders develop-": "Personal Information",
+        "bling such data and reconciling differences across ing the [REDACTED] tool to identify the best sales leads in a": "Personal Information",
+        "data sets is very time-consuming. [REDACTED] project lead- manufacturing organization enlisted the head of": "Personal Information",
+        "ers can minimize end user labor associated with process improvement rather than the salespeople": "Personal Information",
+        "such work by engaging third-party stakeholders in to help with the initial evaluation of the tool. The": "Medical Record",
+        "data construction. For example, [REDACTED] project team head of process improvement helped them identify": "Personal Information",
+        "members worked on an [REDACTED] tool to increase early a success metric of conversion rate \u2014 the percent-": "Personal Information",
+        "detection of patients at high risk of advanced age of potential leads that later became customers.": "Personal Information",
+        "chronic kidney disease ([REDACTED]). Data for the tool He also helped them do an A/B test comparing the": "Personal Information",
+        "needed to be drawn from both electronic health conversion rate for sales leads identified by the tool": "Medical Record",
+        "records and claims data, and the [REDACTED] data sources versus those identified in the regular sales process.": "Personal Information",
+        "were not consistent with each other. Instead of [REDACTED] project leaders can also frequently do more": "Personal Information",
+        "burdening the intended end users of the tool (pri- to help end users more easily evaluate models. For": "Personal Information",
+        "mary care physicians, or [REDACTED]s) with data-cleaning example, [REDACTED] project team members developing": "Medical Record",
+        "tasks, the team validated the data and normalized the tool to detect [REDACTED] found that end users had": "Personal Information",
+        "it across sources with the help of nephrologists difficulty determining the risk score threshold for": "Medical Record",
+        "Assembling large volumes of training data and reconciling data": "Legal Information",
+        "sets is time-consuming. [REDACTED] project leaders can minimize end": "Personal Information",
+        "user labor associated with such work by engaging third-party": "Legal Information",
+        "stakeholders in data construction.": "Personal Information",
+        "considering patients to be at high risk. Project team [REDACTED]. Protect end user autonomy. Humans value au-": "Personal Information",
+        "members used interactive charts to help them see tonomy and gain self-esteem from the job mastery": "Personal Information",
+        "what percentage of the patients with a certain score and knowledge they have accrued, so it\u2019s natural that": "Personal Information",
+        "eventually developed [REDACTED]. This allowed the end users may feel uneasy when [REDACTED] tools allow stake-": "Personal Information",
+        "users to more easily set thresholds for high-risk holders from outside of their domain to shape their": "Personal Information",
+        "versus medium-risk patients. decision-making. [REDACTED]ful [REDACTED] implementations": "Medical Record",
+        "During tool integration, minimize end user require sensitivity to how they may affect end users\u2019": "Personal Information",
+        "labor associated with tool use. Attention to simpli- relationship with their work. [REDACTED]ers can attend": "Personal Information",
+        "fying the user interface and automating related to it in the following ways.": "Medical Record",
+        "processes can help reduce users\u2019 sense that a tool is Protect the tasks that end users see as core to": "Personal Information",
+        "loading them up with extra work. [REDACTED] rule of thumb their work. When [REDACTED] project team members de-": "Personal Information",
+        "is to never ask the user to enter data that the system veloped an [REDACTED] tool to help better detect and manage": "Personal Information",
+        "could have automatically retrieved. It\u2019s better still if sepsis, an infection that triggers full-body inflam-": "Medical Record",
+        "you can actually predict what the user will want and mation and ultimately causes organs to shut down,": "Personal Information",
+        "pre-stage the interface so that it is available to them. many of the [REDACTED] clinicians targeted as end users of": "Personal Information",
+        "In another example involving an [REDACTED] tool for the tool pushed back. They wanted to retain key": "Personal Information",
+        "candidate screening, researchers at the Kin Center tasks such as making the final call on the patient\u2019s": "Personal Information",
+        "for [REDACTED] at Vrije Universiteit in diagnosis and placing orders for required blood": "Medical Record",
+        "[REDACTED] found that developers first made it eas- tests and medications. The project team configured": "Medical Record",
+        "ier for HR recruiters in a consumer goods company the [REDACTED] tool so that its predictions did not infringe": "Personal Information",
+        "to use the tool by color-coding how well a given upon those tasks but did assist [REDACTED] clinicians with": "Personal Information",
+        "candidate matched against employees who had important tasks less valued by the clinicians.": "Personal Information",
+        "succeeded in the organization in the past. Records In the case of the fashion buyers, the tool devel-": "Personal Information",
+        "of candidates with a match of 7[REDACTED]% or higher were opers learned that buyers wanted to maintain what": "Personal Information",
+        "colored green, and those below were colored or- they saw as creative or strategic tasks, such as decid-": "Legal Information",
+        "ange.[REDACTED] Eventually, developers automated the ing what percentage of their overall jeans purchase": "Personal Information",
+        "process even further so that recruiters could click a should comprise boot cut styles or red denim. The": "Personal Information",
+        "button and the tool would automatically filter out project team configured the tool so that if the buy-": "Personal Information",
+        "all candidates with lower predicted success. er\u2019s vision was to have red denim, the buyer could": "Personal Information",
+        "Another tactic is to reassign some of the addi- add this as an input to the tool\u2019s recommendations": "Medical Record",
+        "tional work required for tool use, if possible. For so that the red denim order was filled first.": "Legal Information",
+        "example, [REDACTED] physicians targeted for use of the kid- It may seem self-evident that developers should": "Personal Information",
+        "ney disease tool suffered alert fatigue, because they avoid creating [REDACTED] tools that infringe on the tasks": "Personal Information",
+        "were receiving many other automated clinical deci- that end users see as core to their work, but [REDACTED]": "Personal Information",
+        "sion support alerts as well. [REDACTED] project leaders project leaders may fall into this trap because inter-": "Personal Information",
+        "reduced the number of physician alerts from the vening around core tasks often promises to yield": "Medical Record",
+        "tool by creating a new clinical position and greater gains. For example, in [REDACTED] retail organiza-": "Personal Information",
+        "assigning that person to use the tool to remotely tion, developers initially built a tool to inform": "Legal Information",
+        "monitor all [REDACTED] [REDACTED]s\u2019 patients \u2014 [REDACTED] fashion buyers\u2019 decision-making. Suboptimal": "Personal Information",
+        "adults. When the tool flagged a patient as being at decision-making at this stage had [REDACTED] effects: lost": "Personal Information",
+        "high risk of [REDACTED], that clinician prescreened the alert revenue opportunities from not stocking the right": "Personal Information",
+        "for the [REDACTED] by conducting a chart review. products to meet demand, and lost gross margin": "Financial Data",
+        "If the clinician determined that the patient was from buying the wrong product and subsequently": "Personal Information",
+        "indeed at high risk of [REDACTED], they sent a message having to mark it down. However, fashion buyers": "Personal Information",
+        "to the [REDACTED]. When the [REDACTED] received this message, rejected the tool, so developers pivoted and went to": "Personal Information",
+        "if they agreed that the patient was likely to have [REDACTED], the other end of the process \u2014 developing a tool": "Personal Information",
+        "they referred the patient for an in-person visit to a that helped store merchants decide when and how": "Personal Information",
+        "nephrologist. much to mark down apparel that was not selling.": "Personal Information",
+        "This tool enabled much less value capture, because leaders have learned that involving end users at the": "Personal Information",
+        "it focused only on the final phase of the fashion outset of the project makes that much more likely.": "Personal Information",
+        "retail process. However, smart [REDACTED] leaders have": "Personal Information",
+        "learned that intervening around a circumscribed BEHIND THE GLITT[REDACTED]ING PRO[REDACTED]E of [REDACTED] lies a": "Legal Information",
+        "set of tasks with a tool that actually gets imple- stark reality: The best [REDACTED] tools in the world mean": "Legal Information",
+        "mented is a lot more useful than intervening nothing if they aren\u2019t accepted. To get front-line": "Medical Record",
+        "around end users\u2019 core tasks with a tool that [REDACTED] users\u2019 buy-in, leaders have to first understand the": "Personal Information",
+        "ers more value in theory but isn\u2019t used in practice. [REDACTED] primary conflicts of interest in [REDACTED] implemen-": "Personal Information",
+        "[REDACTED] end users to help evaluate the tool. tations: Targeted end users for [REDACTED] tools might": "Personal Information",
+        "Introducing a new [REDACTED] decision support tool often re- realize few benefits themselves, be tasked with": "Personal Information",
+        "quires replacing a current tool that may be supported additional work related to development or use of": "Personal Information",
+        "by targeted end users with a new tool that threatens the tool, and lose valued autonomy. Only then": "Personal Information",
+        "to curtail their autonomy. For example, the [REDACTED]-based can leaders lay the groundwork for success, by ad-": "Personal Information",
+        "sepsis tool threatened the autonomy of the [REDACTED] clini- dressing the imbalance between end user and": "Personal Information",
+        "cians in a way that an existing rules-based tool for organizational value capture that these tools intro-": "Legal Information",
+        "detecting sepsis did not. To protect end user auton- duce. [REDACTED] doesn\u2019t arise from big data, sparkling": "Personal Information",
+        "omy, project team members invited key stakeholders technologies, and bold promises. Instead, it de-": "Personal Information",
+        "who had developed the tool currently in use and pends on the decisions made, day in and day out, by": "Personal Information",
+        "asked for their help designing an experiment that employees on the ground. To make the promise of": "Personal Information",
+        "would test the effectiveness of the new tool. [REDACTED] a reality, leaders need to take into account the": "Personal Information",
+        "Researchers at [REDACTED] found needs of those who are working on the front lines to": "Personal Information",
+        "similar dynamics in their study of a retail organiza- allow [REDACTED] to function in the real world.": "Personal Information",
+        "tion that developed an [REDACTED] tool designed to help": "Personal Information",
+        "[REDACTED] (@kate_kellogg) is the [REDACTED]": "Personal Information",
+        "fashion allocators decide how many of each particu- [REDACTED] ([REDACTED]959) Professor of Management and": "Personal Information",
+        "lar shoe size and style to ship to which store.[REDACTED] The Innovation at [REDACTED].": "Personal Information",
+        "[REDACTED] (@marksendak) is the population": "Personal Information",
+        "visibility that the tool gave to managers outside of": "Legal Information",
+        "health and data science lead at the [REDACTED] Institute": "Personal Information",
+        "the process had the potential to threaten the auton- for [REDACTED]. Suresh Balu is the associate": "Personal Information",
+        "omy of the allocators in a way that the existing dean for innovation and partnership for the [REDACTED]": "Personal Information",
+        "University School of Medicine and program direc-": "Medical Record",
+        "rules-based tool did not. To protect autonomy, proj-": "Legal Information",
+        "tor of the [REDACTED] Institute for [REDACTED]": "Legal Information",
+        "ect team members enlisted the fashion allocators in (@dukeinnovate).": "Personal Information",
+        "designing an A/B test to evaluate the performance": "Medical Record",
+        "REF[REDACTED]ENCES": "Personal Information",
+        "of the existing tool versus the new [REDACTED] tool.": "Personal Information",
+        "Giving target end users a say in the evaluation [REDACTED]. [REDACTED], [REDACTED], [REDACTED], et [REDACTED], \u201cMake Way": "Personal Information",
+        "for the Algorithms: Symbolic Actions and Change in a": "Legal Information",
+        "process makes perfect sense, so why don\u2019t all [REDACTED] proj-": "Personal Information",
+        "Regime of Knowing,\u201d Organization Science [REDACTED][REDACTED], no. [REDACTED]": "Legal Information",
+        "ect team leaders do it? Because whenever you involve (January-February [REDACTED]0[REDACTED][REDACTED]): [REDACTED]8-[REDACTED][REDACTED].": "Personal Information",
+        "end users in choosing which areas of their work to": "Personal Information",
+        "[REDACTED]. [REDACTED] and [REDACTED], \u201c\u2018Rolling Up the Leaf Node\u2019": "Personal Information",
+        "subject to testing, they will pick the hardest parts. to [REDACTED], and Org Charts,\u201d": "Personal Information",
+        "However, since they are the [REDACTED]s who will need to act": "Personal Information",
+        "working paper, [REDACTED] University, [REDACTED], [REDACTED],": "Personal Information",
+        "on the recommendations, you can\u2019t skip this step. May [REDACTED]0[REDACTED][REDACTED].": "Medical Record",
+        "Involve end users from day [REDACTED]. [REDACTED] project": "Personal Information",
+        "[REDACTED]. [REDACTED] Broek, A. Sergeeva, and [REDACTED],": "Personal Information",
+        "leaders frequently keep [REDACTED] tool development quiet \u201cWhen the Machine Meets the Expert: An Ethnography": "Personal Information",
+        "of [REDACTED]ing [REDACTED] for Hiring,\u201d [REDACTED] Quarterly [REDACTED], no. [REDACTED]": "Personal Information",
+        "in the early stages to forestall expected user resis-": "Personal Information",
+        "(September [REDACTED]0[REDACTED][REDACTED]): [REDACTED]57-[REDACTED]80.": "Personal Information",
+        "tance. But project leaders who don\u2019t involve users": "Personal Information",
+        "[REDACTED]. T. DeStefano, [REDACTED], and [REDACTED],": "Personal Information",
+        "early are much less likely to succeed. Users will re-": "Personal Information",
+        "\u201cA Field Experiment on [REDACTED] Adoption and Allocation": "Personal Information",
+        "sent that they were brought in late, and they will Efficiency,\u201d forthcoming.": "Medical Record",
+        "hold a grudge. Even if an [REDACTED] tool can fully auto-": "Personal Information",
+        "Reprint 6[REDACTED][REDACTED][REDACTED][REDACTED].": "Personal Information",
+        "mate a process, end users will need to accept the Copyright \u00a9 [REDACTED], [REDACTED]0[REDACTED][REDACTED].": "Legal Information",
+        "tool in order for it to work. [REDACTED]ful [REDACTED] project All rights reserved.": "Personal Information",
+        "Reproduced with permission of copyright owner. Further reproduction": "Legal Information",
+        "prohibited without permission.": "Legal Information"
+    },
+    "pii_entities": [
+        [
+            "Title 17",
+            "DATE"
+        ],
+        [
+            "201.14",
+            "CARDINAL"
+        ],
+        [
+            "the Code of Federal Regulations:\nhttps://www.law.cornell.edu/cfr/text/37/201.14\nThe",
+            "ORG"
+        ],
+        [
+            "the United States",
+            "GPE"
+        ],
+        [
+            "United States",
+            "ORG"
+        ],
+        [
+            "One",
+            "CARDINAL"
+        ],
+        [
+            "University of Texas",
+            "ORG"
+        ],
+        [
+            "Arlington Libraries\u2019 Resource Delivery Team",
+            "ORG"
+        ],
+        [
+            "The University of Texas",
+            "ORG"
+        ],
+        [
+            "Arlington Libraries",
+            "ORG"
+        ],
+        [
+            "Arlington",
+            "GPE"
+        ],
+        [
+            "Texas",
+            "GPE"
+        ],
+        [
+            "817",
+            "CARDINAL"
+        ],
+        [
+            "library-ill@listserv.uta.edu\nTECHNOLOGY IMPLEMENTATION\nAI",
+            "ORG"
+        ],
+        [
+            "Front Lines",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "KATHERINE C. KELLOGG",
+            "PERSON"
+        ],
+        [
+            "MARK SENDAK",
+            "PERSON"
+        ],
+        [
+            "Monday",
+            "DATE"
+        ],
+        [
+            "Aman",
+            "PERSON"
+        ],
+        [
+            "one",
+            "CARDINAL"
+        ],
+        [
+            "that day",
+            "DATE"
+        ],
+        [
+            "Duke University Hospital\u2019s",
+            "ORG"
+        ],
+        [
+            "Aman",
+            "PERSON"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "ICU",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "Aman",
+            "PERSON"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "ICU",
+            "ORG"
+        ],
+        [
+            "a year",
+            "DATE"
+        ],
+        [
+            "three weeks",
+            "DATE"
+        ],
+        [
+            "One",
+            "CARDINAL"
+        ],
+        [
+            "ER",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "ER",
+            "ORG"
+        ],
+        [
+            "ER",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "44",
+            "CARDINAL"
+        ],
+        [
+            "MIT SLOAN MANAGEMENT REVIEW SUMMER 2022",
+            "ORG"
+        ],
+        [
+            "LinkedIn",
+            "GPE"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "15",
+            "CARDINAL"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "15",
+            "CARDINAL"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "the past five years",
+            "DATE"
+        ],
+        [
+            "Duke Health",
+            "ORG"
+        ],
+        [
+            "Duke Health",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "2",
+            "CARDINAL"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "spring",
+            "DATE"
+        ],
+        [
+            "three",
+            "CARDINAL"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "1",
+            "CARDINAL"
+        ],
+        [
+            "ER",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "Oxford University",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "ER",
+            "ORG"
+        ],
+        [
+            "ICU",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "SUMMER 2022 MIT SLOAN MANAGEMENT REVIEW",
+            "ORG"
+        ],
+        [
+            "45",
+            "CARDINAL"
+        ],
+        [
+            "3",
+            "CARDINAL"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "Stanford",
+            "ORG"
+        ],
+        [
+            "ICU",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "Encouraging Front-Line Adoption",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "Duke",
+            "ORG"
+        ],
+        [
+            "ER",
+            "ORG"
+        ],
+        [
+            "ICU",
+            "ORG"
+        ],
+        [
+            "ICU",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "ER",
+            "ORG"
+        ],
+        [
+            "ER",
+            "ORG"
+        ],
+        [
+            "Front-Line",
+            "ORG"
+        ],
+        [
+            "AI Implementations",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "AI IMPLEMENTATION CHALLENGES SOLUTIONS FOR OVERCOMING IMPLEMENTATION CHALLENGES",
+            "ORG"
+        ],
+        [
+            "Increase",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "Reduce",
+            "PERSON"
+        ],
+        [
+            "\u2022 E ngage",
+            "CARDINAL"
+        ],
+        [
+            "\u2022 E ngage",
+            "CARDINAL"
+        ],
+        [
+            "\u2022 Allow",
+            "PERSON"
+        ],
+        [
+            "day one",
+            "DATE"
+        ],
+        [
+            "46",
+            "CARDINAL"
+        ],
+        [
+            "MIT SLOAN MANAGEMENT REVIEW SUMMER 2022",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "1",
+            "CARDINAL"
+        ],
+        [
+            "Develop",
+            "ORG"
+        ],
+        [
+            "Duke",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "ER",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "ER",
+            "ORG"
+        ],
+        [
+            "Duke",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "ER",
+            "ORG"
+        ],
+        [
+            "PE",
+            "ORG"
+        ],
+        [
+            "ER",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "ER",
+            "ORG"
+        ],
+        [
+            "Duke",
+            "ORG"
+        ],
+        [
+            "PE",
+            "ORG"
+        ],
+        [
+            "ER",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "AI",
+            "GPE"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "2022",
+            "DATE"
+        ],
+        [
+            "47",
+            "CARDINAL"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "2",
+            "CARDINAL"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "Duke",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "two",
+            "CARDINAL"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "Duke",
+            "ORG"
+        ],
+        [
+            "CKD",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "48",
+            "CARDINAL"
+        ],
+        [
+            "MIT SLOAN MANAGEMENT REVIEW SUMMER 2022",
+            "ORG"
+        ],
+        [
+            "3",
+            "CARDINAL"
+        ],
+        [
+            "CKD",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "One",
+            "CARDINAL"
+        ],
+        [
+            "Duke",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "ER",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "Digital Innovation",
+            "ORG"
+        ],
+        [
+            "Amsterdam",
+            "GPE"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "ER",
+            "ORG"
+        ],
+        [
+            "Duke",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "one",
+            "CARDINAL"
+        ],
+        [
+            "Duke",
+            "ORG"
+        ],
+        [
+            "over 50,000",
+            "CARDINAL"
+        ],
+        [
+            "two",
+            "CARDINAL"
+        ],
+        [
+            "CKD",
+            "ORG"
+        ],
+        [
+            "PCP",
+            "ORG"
+        ],
+        [
+            "CKD",
+            "ORG"
+        ],
+        [
+            "PCP",
+            "ORG"
+        ],
+        [
+            "PCP",
+            "ORG"
+        ],
+        [
+            "CKD",
+            "ORG"
+        ],
+        [
+            "SUMMER 2022 MIT SLOAN MANAGEMENT REVIEW",
+            "ORG"
+        ],
+        [
+            "49",
+            "CARDINAL"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "deliv-",
+            "ORG"
+        ],
+        [
+            "three",
+            "CARDINAL"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "Allow",
+            "PERSON"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "ER",
+            "ORG"
+        ],
+        [
+            "Success",
+            "ORG"
+        ],
+        [
+            "Harvard Business School",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "Katherine C. Kellogg",
+            "PERSON"
+        ],
+        [
+            "David",
+            "PERSON"
+        ],
+        [
+            "J. McGrath Jr.",
+            "PERSON"
+        ],
+        [
+            "1959",
+            "DATE"
+        ],
+        [
+            "MIT Sloan School of Management",
+            "ORG"
+        ],
+        [
+            "Mark Sendak",
+            "PERSON"
+        ],
+        [
+            "the Duke Institute",
+            "ORG"
+        ],
+        [
+            "Health Innovation",
+            "ORG"
+        ],
+        [
+            "the Duke\nUniversity School of Medicine",
+            "ORG"
+        ],
+        [
+            "the Duke Institute for Health Innovation",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "1",
+            "CARDINAL"
+        ],
+        [
+            "S. Pachidi",
+            "PERSON"
+        ],
+        [
+            "H. Berends",
+            "PERSON"
+        ],
+        [
+            "S. Faraj",
+            "PERSON"
+        ],
+        [
+            "al.",
+            "GPE"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "1",
+            "CARDINAL"
+        ],
+        [
+            "January-February 2021",
+            "DATE"
+        ],
+        [
+            "18",
+            "CARDINAL"
+        ],
+        [
+            "2",
+            "CARDINAL"
+        ],
+        [
+            "M. Valentine",
+            "PERSON"
+        ],
+        [
+            "R. Hinds",
+            "PERSON"
+        ],
+        [
+            "New Levels of Analysis: How Algorithmic Decision-\nMaking Changes Roles, Hierarchies",
+            "ORG"
+        ],
+        [
+            "Stanford University",
+            "ORG"
+        ],
+        [
+            "Stanford",
+            "ORG"
+        ],
+        [
+            "California",
+            "GPE"
+        ],
+        [
+            "May 2021",
+            "DATE"
+        ],
+        [
+            "day one",
+            "DATE"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "3.",
+            "CARDINAL"
+        ],
+        [
+            "E. van den",
+            "PERSON"
+        ],
+        [
+            "M. Huysman",
+            "PERSON"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "MIS",
+            "ORG"
+        ],
+        [
+            "Quarterly 45",
+            "DATE"
+        ],
+        [
+            "3",
+            "CARDINAL"
+        ],
+        [
+            "September 2021",
+            "DATE"
+        ],
+        [
+            "1557-1580",
+            "DATE"
+        ],
+        [
+            "4",
+            "CARDINAL"
+        ],
+        [
+            "M. Menietti",
+            "PERSON"
+        ],
+        [
+            "L. Vendraminelli",
+            "PERSON"
+        ],
+        [
+            "AI",
+            "GPE"
+        ],
+        [
+            "Massachusetts Institute of Technology",
+            "ORG"
+        ],
+        [
+            "2022",
+            "DATE"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "50",
+            "CARDINAL"
+        ],
+        [
+            "MIT SLOAN MANAGEMENT REVIEW SUMMER 2022",
+            "ORG"
+        ]
+    ]
+}
