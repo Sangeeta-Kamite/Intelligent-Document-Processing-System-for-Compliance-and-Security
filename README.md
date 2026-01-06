@@ -1,4 +1,4 @@
-# Intelligent Document-Processing-System-for-Compliance-and-Security
+# Intelligent Document Processing-System-for-Compliance-and-Security
 This project develops an AI-powered document processing system that extracts, classifies, and redacts sensitive information from documents using Natural Language Processing (NLP).
 The system ensures privacy compliance (e.g., GDPR, HIPAA, CCPA) by automatically detecting and redacting Personally Identifiable Information (PII) while categorizing document types and their sections.
 
